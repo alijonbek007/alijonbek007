@@ -1,15 +1,18 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://t.me/Alijon_Abduxamitov">
-  <img align="left" alt="Alijon Abduxamitov" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />
+  <img align="left" alt="Alijon Abduxamitov | Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.instagram.com/alijon_abduxamitov">
+  <img align="left" alt="Alijon Abduxamitov | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.facebook.com/alijon.abduhamitov.5">
+  <img align="left" alt="Alijon Abduxamitov | Facebook" width="22px" src="https://cdn-icons.flaticon.com/png/512/739/premium/739135.png?token=exp=1634558327~hmac=c27b5b22ac5c6826001c0657941fc5f7" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://www.linkedin.com/in/alijon-abduxamitov-27023720a">
+  <img align="left" alt="Alijon Abduxamitov | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://medium.com/@alijonabduxamitov007">
+  <img align="left" alt="Alijon Abduxamitov | Medium" width="22px" src="https://bancambios.exchange/images/SocialMediaIcons/mediumIcon.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
