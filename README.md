@@ -1,5 +1,5 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
+<a href="https://t.me/Alijon_Abduxamitov">
   <img align="left" alt="Alijon Abduxamitov" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />
 </a>
 <a href="https://twitter.com/abhisheknaiidu">
