@@ -46,7 +46,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 ```text
 Flutter   11 hrs 18 mins  ████████████████████████▓   98.45 % 
-Dart          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Dart          9 mins      ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 <!--END_SECTION:waka--> 
 
