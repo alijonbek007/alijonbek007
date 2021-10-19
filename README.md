@@ -15,7 +15,7 @@
   <img align="left" alt="Alijon Abduxamitov | Medium" width="22px" src="https://bancambios.exchange/images/SocialMediaIcons/mediumIcon.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=alijonbek007.alijonbek007)
 
 <br />
 
