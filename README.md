@@ -26,7 +26,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 any freelance work? do reach, [email](alijonabduxamitov007@.gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
@@ -45,14 +45,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   11 hrs 18 mins  ████████████████████████▓   98.45 % 
-JSX          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Flutter   11 hrs 18 mins  ████████████████████████▓   98.45 % 
+Dart          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
-<!--END_SECTION:waka-->
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<!--END_SECTION:waka--> 
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
@@ -65,5 +61,5 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alijonbek007&show_icons=true&theme=gotham" alt="alijonbek007" />
 
