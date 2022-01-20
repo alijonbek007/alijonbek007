@@ -6,7 +6,7 @@
   <img align="left" alt="Alijon Abduxamitov | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
 </a>
 <a href="https://www.facebook.com/alijon.abduhamitov.5">
-  <img align="left" alt="Alijon Abduxamitov | Facebook" width="22px" src="https://cdn-icons.flaticon.com/png/512/739/premium/739135.png?token=exp=1634558327~hmac=c27b5b22ac5c6826001c0657941fc5f7" />
+  <img align="left" alt="Alijon Abduxamitov | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" />
 </a>
 <a href="https://www.linkedin.com/in/alijon-abduxamitov-27023720a">
   <img align="left" alt="Alijon Abduxamitov | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
